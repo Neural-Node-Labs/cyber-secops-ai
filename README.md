@@ -1,2 +1,2 @@
-# Omnikon-light-autonomous-ai
-Blue Team Simulation Agent - TDB
+# cyber-secops-agent
+Active security AI agent
