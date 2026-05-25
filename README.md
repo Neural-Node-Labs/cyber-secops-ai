@@ -4,6 +4,8 @@
 **Deployment:** OS-Level Daemon
 
 ---
+![cyber-secops.png](doc/images/cyber-secops.png)
+
 
 ## Core Capabilities
 
